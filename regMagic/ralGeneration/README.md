@@ -1,0 +1,1 @@
+# Reg Magic - RAL Generation
